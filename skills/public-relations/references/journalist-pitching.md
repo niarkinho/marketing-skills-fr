@@ -74,139 +74,139 @@ Six structures qui marchent. Choisissez celle qui correspond à votre story.
 ### 1. Story de données
 
 ```
-Subject: [Specific stat] — [implication]
+Objet : [Stat spécifique] — [implication]
 
-Hi [name],
+Bonjour [name],
 
-I noticed you covered [recent article] — wanted to share data that might
-be relevant.
+J'ai vu que vous avez couvert [recent article] — je voulais partager une
+donnée qui pourrait être pertinente.
 
-We [analyzed N / surveyed N / tracked N] and found:
-• [Stat 1 with surprise factor]
+Nous avons [analysé N / interrogé N / suivi N] et trouvé :
+• [Stat 1 avec facteur de surprise]
 • [Stat 2]
 • [Stat 3]
 
-The most interesting pattern: [one-sentence insight].
+Le pattern le plus intéressant : [insight en une phrase].
 
-Full data + methodology here: [link to one-pager, not your homepage]
+Données complètes + méthodologie ici : [lien vers un one-pager, pas votre page d'accueil]
 
-Happy to share the raw dataset, jump on a call, or connect you with
-[customer who's relevant].
+Avec plaisir pour partager le dataset brut, faire un call, ou vous mettre
+en relation avec [client pertinent].
 
-[your name + 1-line credential]
+[votre nom + crédential en 1 ligne]
 ```
 
 ### 2. Lancement exclusif / jalon
 
 ```
-Subject: Exclusive: [specific milestone] at [company]
+Objet : Exclusif : [jalon spécifique] chez [company]
 
-Hi [name],
+Bonjour [name],
 
-I have an exclusive on [milestone] that I think fits your [beat] coverage.
+J'ai une exclu sur [milestone] qui me semble coller à votre beat [beat].
 
-The story: [one sentence]
-Why it matters: [one sentence — for their readers, not for you]
-What's new: [the actual news, not the marketing line]
+La story : [une phrase]
+Pourquoi ça compte : [une phrase — pour leurs lecteurs, pas pour vous]
+Ce qui est nouveau : [la vraie actu, pas la ligne marketing]
 
-Embargo until [day, time, timezone] — would love to give you first
-window. Press kit + assets: [link]
+Embargo jusqu'au [jour, heure, fuseau] — je serais ravi de vous donner
+la primeur. Press kit + assets : [link]
 
-Free to talk [two specific time options].
+Disponible pour échanger [deux options d'horaire précises].
 
-[your name]
+[votre nom]
 ```
 
 ### 3. Op-ed / pièce contribuée
 
 ```
-Subject: Op-ed pitch: [provocative thesis]
+Objet : Pitch d'op-ed : [thèse provocante]
 
-Hi [name],
+Bonjour [name],
 
-I read your piece on [recent article] — sharp take on [specific point].
+J'ai lu votre papier sur [recent article] — angle tranché sur [point précis].
 
-I'd like to pitch a 700-word op-ed: "[Thesis as a headline]"
+J'aimerais vous pitcher un op-ed de 700 mots : « [Thèse en titre] »
 
-Core argument:
+Argument central :
 • [Point 1]
 • [Point 2]
-• [Point 3 — the surprising one]
+• [Point 3 — le surprenant]
 
-Why me: [1 sentence — credential or unique vantage]
-Why now: [1 sentence — the news hook]
+Pourquoi moi : [1 phrase — crédential ou point de vue unique]
+Pourquoi maintenant : [1 phrase — le hook d'actu]
 
-Can have a draft to you by [date]. Happy to adapt to your house style.
+Je peux vous envoyer un draft pour le [date]. Avec plaisir pour m'adapter à votre ligne éditoriale.
 
-[your name]
+[votre nom]
 ```
 
 ### 4. Story client
 
 ```
-Subject: Customer story for [their beat] — [specific outcome]
+Objet : Story client pour [leur beat] — [résultat spécifique]
 
-Hi [name],
+Bonjour [name],
 
-For your [beat] coverage, I have a [customer type] willing to talk on
-the record about [specific outcome].
+Pour votre couverture [beat], j'ai un [type de client] prêt à parler
+on the record de [résultat spécifique].
 
-The hook: [customer] [did something specific] and [measurable result].
+Le hook : [client] [a fait quelque chose de précis] et [résultat mesurable].
 
-The interesting part: [the surprising or counterintuitive detail].
+Le côté intéressant : [le détail surprenant ou contre-intuitif].
 
-Customer details:
-• Name: [name, title, company]
-• Available: [windows]
-• Willing to share: [data points / screenshots / metrics]
+Détails du client :
+• Nom : [nom, titre, entreprise]
+• Disponible : [créneaux]
+• Prêt à partager : [data points / screenshots / métriques]
 
-Happy to coordinate the intro.
+Avec plaisir pour coordonner la mise en relation.
 
-[your name]
+[votre nom]
 ```
 
 ### 5. Pièce de tendance / connecteur
 
 ```
-Subject: Trend forming in [space] — three signals
+Objet : Tendance qui se forme dans [space] — trois signaux
 
-Hi [name],
+Bonjour [name],
 
-Three things in [space] this month that I think connect:
+Trois choses dans [space] ce mois-ci qui, je pense, se connectent :
 
-1. [Signal 1 with link]
-2. [Signal 2 with link]
-3. [Signal 3 — yours, briefly]
+1. [Signal 1 avec lien]
+2. [Signal 2 avec lien]
+3. [Signal 3 — le vôtre, brièvement]
 
-The pattern: [one sentence].
+Le pattern : [une phrase].
 
-This might be early for a piece, but if you're tracking the space I
-wanted to flag it. Happy to share data we've collected or connect you
-with others seeing the same.
+C'est peut-être tôt pour un papier, mais si vous suivez le sujet je
+voulais vous le signaler. Avec plaisir pour partager les données qu'on a
+collectées ou vous mettre en relation avec d'autres qui voient la même chose.
 
-[your name]
+[votre nom]
 ```
 
 ### 6. Réponse de newsjack
 
 ```
-Subject: Re: [their article headline] — quick data point
+Objet : Re : [titre de leur article] — donnée rapide
 
-Hi [name],
+Bonjour [name],
 
-Saw your piece on [story] this morning — wanted to add a relevant
-data point in case you do a follow-up.
+J'ai vu votre papier sur [story] ce matin — je voulais ajouter une
+donnée pertinente au cas où vous feriez un follow-up.
 
-[One-sentence stat or insight].
+[Stat ou insight en une phrase].
 
-Source: [our data / our customers / our analysis]
-Methodology: [one sentence]
+Source : [nos données / nos clients / notre analyse]
+Méthodologie : [une phrase]
 
-Quotable: "[a sentence you'd be comfortable seeing in print]"
+Citable : « [une phrase que vous seriez à l'aise de voir imprimée] »
 
-If useful for a follow-up, I'm around all day at this number: [phone].
+Si c'est utile pour un follow-up, je suis joignable toute la journée à ce numéro : [phone].
 
-[your name]
+[votre nom]
 ```
 
 ---
@@ -317,11 +317,11 @@ Des choses qui disqualifient instantanément votre pitch :
 ### Trouver les coordonnées d'un journaliste
 
 ```bash
-# Most journalists' emails follow patterns:
-# firstname@outlet.com
-# firstname.lastname@outlet.com
-# flastname@outlet.com
-# Use Hunter.io, RocketReach, or just guess and bounce-check
+# La plupart des emails de journalistes suivent des patterns :
+# prenom@media.com
+# prenom.nom@media.com
+# pnom@media.com
+# Utilisez Hunter.io, RocketReach, ou devinez puis vérifiez le bounce
 ```
 
 ### Rechercher leur travail récent (piloté par navigateur)
@@ -334,14 +334,14 @@ Utilisez `dev-browser` (session persistante, pas de rate limits) pour :
 Sortez ce que vous trouvez sous la forme :
 
 ```
-JOURNALIST PROFILE — [name]
-Outlet: [name]
-Beat: [topics from last 5 articles]
-Recent angle: [pattern you noticed]
-Recent X activity: [what they're posting]
-Score: [X/40 from rubric]
-Best pitch angle: [from template library]
-Email: [confirmed]
+PROFIL JOURNALISTE — [name]
+Média : [name]
+Beat : [sujets des 5 derniers articles]
+Angle récent : [pattern repéré]
+Activité X récente : [ce qu'il poste]
+Score : [X/40 selon la grille]
+Meilleur angle de pitch : [depuis la bibliothèque de templates]
+Email : [confirmé]
 ```
 
 ### Maintenir la média list
@@ -350,9 +350,9 @@ Stockez dans `.agents/media-list.md` (ou `.csv` si vous préférez). Mettez à j
 
 ```markdown
 ## Tier 1 (top 20)
-| Name | Outlet | Beat | Last contact | Last coverage | Email | Score |
-|------|--------|------|--------------|---------------|-------|-------|
-| ...  | ...    | ...  | 2026-05-15   | none yet      | ...   | 9/10  |
+| Nom | Média | Beat | Dernier contact | Dernière couverture | Email | Score |
+|-----|-------|------|-----------------|---------------------|-------|-------|
+| ... | ...   | ...  | 2026-05-15      | aucune pour l'instant | ... | 9/10  |
 ```
 
 ### Tracking des pitches

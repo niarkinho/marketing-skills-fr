@@ -11,24 +11,24 @@ Templates de copy complets avec nombre de caractères, timing et logique de segm
 ### Envoi 1 — Immédiat (après l'opt-in)
 
 ```
-From [Brand]: Welcome! Here's your 10% off code: WELCOME10. Shop now: [short.link]
-Reply STOP to opt out, HELP for help. Msg & data rates may apply.
+De [Brand] : Bienvenue ! Voici votre code -10 % : WELCOME10. J'en profite : [short.link]
+Répondez STOP pour vous désinscrire, HELP pour de l'aide. Frais SMS éventuels.
 ```
-~155 car. / 1 segment (tout juste). Footer requis sur le premier envoi.
+~150 car. / 1 segment (tout juste). Footer requis sur le premier envoi.
 
 ### Envoi 2 — 24 heures plus tard (optionnel)
 
 ```
-From [Brand]: Don't forget your code WELCOME10 — expires in 48hrs. Top picks: [short.link]
+De [Brand] : N'oubliez pas votre code WELCOME10 — expire dans 48 h. Notre sélection : [short.link]
 ```
-~108 car. / 1 segment.
+~98 car. / 1 segment.
 
 ### Envoi 3 — 7 jours plus tard (optionnel, conditionné à l'absence d'achat)
 
 ```
-From [Brand]: Last chance for 10% off with WELCOME10. Expires tonight at midnight: [short.link]
+De [Brand] : Dernière chance pour -10 % avec WELCOME10. Expire ce soir à minuit : [short.link]
 ```
-~107 car. / 1 segment.
+~96 car. / 1 segment.
 
 ---
 
@@ -37,23 +37,23 @@ From [Brand]: Last chance for 10% off with WELCOME10. Expires tonight at midnigh
 ### Envoi 1 — 30 minutes après l'abandon
 
 ```
-From [Brand]: Hey [FirstName], you left something behind! Your cart's here: [short.link]
+De [Brand] : [FirstName], vous avez oublié quelque chose ! Votre panier est là : [short.link]
 ```
-~95 car. / 1 segment.
+~92 car. / 1 segment.
 
 ### Envoi 2 — 4 heures après l'abandon (si pas d'achat)
 
 ```
-From [Brand]: Items in your cart are selling fast. Reserved for you for 24hrs: [short.link]
+De [Brand] : Les articles de votre panier partent vite. Réservés 24 h pour vous : [short.link]
 ```
-~98 car. / 1 segment.
+~95 car. / 1 segment.
 
 ### Envoi 3 — 24 heures après l'abandon (si pas d'achat, réduction autorisée)
 
 ```
-From [Brand]: Still thinking? Here's 10% off to seal the deal: SAVE10. Shop: [short.link]
+De [Brand] : Toujours hésitant ? Voici -10 % pour conclure : SAVE10. J'en profite : [short.link]
 ```
-~99 car. / 1 segment.
+~96 car. / 1 segment.
 
 **Notes** :
 - Une réduction dès l'Envoi 1 entraîne les clients à abandonner. À réserver à l'Envoi 2 ou 3.
@@ -67,9 +67,9 @@ From [Brand]: Still thinking? Here's 10% off to seal the deal: SAVE10. Shop: [sh
 ### Envoi 1 — 1 heure après navigation (produit ou catégorie unique)
 
 ```
-From [Brand]: Still thinking about [product]? Take another look: [short.link]
+De [Brand] : Toujours tenté par [product] ? Jetez-y un nouveau coup d'œil : [short.link]
 ```
-~84 car. / 1 segment.
+~88 car. / 1 segment.
 
 **Notes** :
 - Déclencher seulement après un signal de navigation significatif (3+ vues produit ou 2+ min sur la page produit).
@@ -82,37 +82,37 @@ From [Brand]: Still thinking about [product]? Take another look: [short.link]
 ### Envoi 1 — Immédiatement après l'achat (transactionnel, consentement distinct)
 
 ```
-From [Brand]: Order #12345 confirmed! We'll text shipping updates here. Track: [short.link]
+De [Brand] : Commande #12345 confirmée ! Suivi d'expédition par SMS ici. Suivre : [short.link]
 ```
-~95 car. / 1 segment.
+~94 car. / 1 segment.
 
 ### Envoi 2 — Jour de l'expédition
 
 ```
-From [Brand]: Your order's on the way. Estimated delivery: [date]. Track: [short.link]
+De [Brand] : Votre commande est en route. Livraison estimée : [date]. Suivre : [short.link]
 ```
 ~92 car. / 1 segment.
 
 ### Envoi 3 — Jour de la livraison
 
 ```
-From [Brand]: Your order should arrive today! Questions? Reply or visit [short.link]
+De [Brand] : Votre commande devrait arriver aujourd'hui ! Une question ? Répondez ou [short.link]
 ```
-~88 car. / 1 segment.
+~96 car. / 1 segment.
 
 ### Envoi 4 — 2 jours après la livraison (consentement marketing requis)
 
 ```
-From [Brand]: How are you liking your [product]? Share a review for 15% off next order: [short.link]
+De [Brand] : Votre [product] vous plaît ? Laissez un avis et obtenez -15 % sur votre prochaine commande : [short.link]
 ```
-~108 car. / 1 segment.
+~112 car. / 1 segment.
 
 ### Envoi 5 — 14 jours après la livraison (cross-sell, consentement marketing)
 
 ```
-From [Brand]: Goes great with your [product]: [related-item]. 10% off bundle: [short.link]
+De [Brand] : Parfait avec votre [product] : [related-item]. -10 % sur le duo : [short.link]
 ```
-~99 car. / 1 segment.
+~90 car. / 1 segment.
 
 ---
 
@@ -121,23 +121,23 @@ From [Brand]: Goes great with your [product]: [related-item]. 10% off bundle: [s
 ### Envoi 1 — 60-90 jours après le dernier achat
 
 ```
-From [Brand]: [FirstName], we miss you! Picks we think you'll love: [short.link]
+De [Brand] : [FirstName], vous nous manquez ! Une sélection qui devrait vous plaire : [short.link]
 ```
-~84 car. / 1 segment.
+~94 car. / 1 segment.
 
 ### Envoi 2 — 14 jours plus tard (si pas d'achat)
 
 ```
-From [Brand]: Come back for 15% off your next order: COMEBACK15. Expires in 7 days: [short.link]
+De [Brand] : Revenez avec -15 % sur votre prochaine commande : COMEBACK15. Expire dans 7 jours : [short.link]
 ```
 ~106 car. / 1 segment.
 
 ### Envoi 3 — 14 jours après l'Envoi 2 (final, si pas d'achat)
 
 ```
-From [Brand]: Last chance — 20% off ends tonight: COMEBACK20. We'll stop texting if you'd rather: reply STOP. [short.link]
+De [Brand] : Dernière chance — -20 % se termine ce soir : COMEBACK20. On arrête les SMS si vous préférez : répondez STOP. [short.link]
 ```
-~130 car. / 1 segment.
+~128 car. / 1 segment.
 
 **Notes** :
 - Après l'Envoi 3 sans engagement, supprimer pendant 90 jours minimum.
@@ -150,30 +150,30 @@ From [Brand]: Last chance — 20% off ends tonight: COMEBACK20. We'll stop texti
 ### Vente flash (envoi unique)
 
 ```
-From [Brand]: 24-HOUR FLASH: 25% off everything with FLASH25. Ends midnight: [short.link]
+De [Brand] : FLASH 24 H : -25 % sur tout avec FLASH25. Se termine à minuit : [short.link]
 ```
-~94 car. / 1 segment.
+~88 car. / 1 segment.
 
 ### Drop / lancement limité
 
 ```
-From [Brand]: New drop just landed: [product-name]. Limited stock, members get early access: [short.link]
+De [Brand] : Nouveau drop en ligne : [product-name]. Stock limité, accès anticipé pour les membres : [short.link]
 ```
-~115 car. / 1 segment.
+~112 car. / 1 segment.
 
 ### Fêtes / BFCM (séquence à 2 envois)
 
 Envoi 1 — Jour du lancement :
 ```
-From [Brand]: Black Friday is LIVE — up to 50% off sitewide. Shop now: [short.link]
+De [Brand] : Le Black Friday est LANCÉ — jusqu'à -50 % sur tout le site. J'en profite : [short.link]
 ```
-~92 car. / 1 segment.
+~96 car. / 1 segment.
 
 Envoi 2 — Le jour même (ou en soirée, push d'expiration) :
 ```
-From [Brand]: Last 6 hours of BFCM savings. Don't miss out: [short.link]
+De [Brand] : Plus que 6 h pour profiter des offres BFCM. Ne ratez pas ça : [short.link]
 ```
-~73 car. / 1 segment.
+~84 car. / 1 segment.
 
 ---
 
@@ -182,31 +182,31 @@ From [Brand]: Last 6 hours of BFCM savings. Don't miss out: [short.link]
 ### Confirmation de commande
 
 ```
-[Brand]: Order #12345 confirmed. Total $XX.XX. Track at [short.link]. Reply HELP for help.
+[Brand] : Commande #12345 confirmée. Total XX,XX €. Suivi sur [short.link]. Répondez HELP pour de l'aide.
 ```
 
 ### Mise à jour d'expédition
 
 ```
-[Brand]: Your order #12345 shipped! Track: [short.link]. ETA [date].
+[Brand] : Votre commande #12345 est expédiée ! Suivi : [short.link]. Livraison estimée [date].
 ```
 
 ### Confirmation de livraison
 
 ```
-[Brand]: Order #12345 delivered. Enjoy! Issues? Reply or [support-link].
+[Brand] : Commande #12345 livrée. Profitez-en ! Un souci ? Répondez ou [support-link].
 ```
 
 ### Code d'authentification (2FA)
 
 ```
-[Brand] verification code: 123456. Expires in 10 min. Do not share.
+[Brand] code de vérification : 123456. Expire dans 10 min. Ne le partagez pas.
 ```
 
 ### Alerte de compte
 
 ```
-[Brand]: Sign-in from new device in [location]. Wasn't you? Secure: [short.link]
+[Brand] : Connexion depuis un nouvel appareil à [location]. Ce n'était pas vous ? Sécurisez : [short.link]
 ```
 
 ---
@@ -218,16 +218,16 @@ Pour les abonnés SMS qui n'ont interagi avec aucun envoi depuis 60+ jours.
 ### Envoi 1 — Réactivation douce
 
 ```
-From [Brand]: We've missed you, [FirstName]! Here's what's new: [short.link]
+De [Brand] : Vous nous avez manqué, [FirstName] ! Voici les nouveautés : [short.link]
 ```
-~80 car. / 1 segment.
+~82 car. / 1 segment.
 
 ### Envoi 2 — Confirmer l'intérêt (si pas d'engagement)
 
 ```
-From [Brand]: Want to keep hearing from us? Reply YES to stay on the list, or STOP to opt out.
+De [Brand] : Voulez-vous continuer à nous suivre ? Répondez YES pour rester sur la liste, ou STOP pour vous désinscrire.
 ```
-~98 car. / 1 segment.
+~120 car. / 1 segment.
 
 Sans réponse : supprimer pendant 60 jours, puis retirer de la liste active. Cela protège les métriques de taux d'opt-out et réduit la dépense gaspillée.
 
@@ -240,16 +240,16 @@ Pour les produits à cycles d'usage prévisibles (skincare, compléments, café,
 ### Envoi 1 — À la fenêtre de réassort attendue (ex. 28 jours pour un stock de 30 jours)
 
 ```
-From [Brand]: Running low on [product]? Reorder in one tap: [short.link]
+De [Brand] : Bientôt à court de [product] ? Recommandez en un clic : [short.link]
 ```
-~73 car. / 1 segment.
+~80 car. / 1 segment.
 
 ### Envoi 2 — 7 jours plus tard (si pas d'achat)
 
 ```
-From [Brand]: Don't run out! 10% off your reorder of [product]: REFILL10 [short.link]
+De [Brand] : Ne tombez pas en panne ! -10 % sur votre recommande de [product] : REFILL10 [short.link]
 ```
-~92 car. / 1 segment.
+~98 car. / 1 segment.
 
 ---
 
@@ -260,16 +260,16 @@ Fréquence plus élevée, offres exclusives, accès anticipé — des règles de
 ### Accès anticipé
 
 ```
-From [Brand]: VIPs get the new drop 24hrs early. Yours now: [short.link]
+De [Brand] : Les VIP accèdent au nouveau drop 24 h en avance. Le vôtre : [short.link]
 ```
-~72 car. / 1 segment.
+~84 car. / 1 segment.
 
 ### Jalon de fidélité
 
 ```
-From [Brand]: You've reached Gold status! Your perks: 15% off + free shipping. [short.link]
+De [Brand] : Vous passez au statut Gold ! Vos avantages : -15 % + livraison offerte. [short.link]
 ```
-~95 car. / 1 segment.
+~96 car. / 1 segment.
 
 ---
 
