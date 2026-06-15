@@ -1,0 +1,19 @@
+{
+  "name": "marketingskills-fr",
+  "owner": {
+    "name": "Immersive (localisation FR)",
+    "url": "https://imrsiv.fr"
+  },
+  "metadata": {
+    "description": "Skills marketing pour agents IA — version française. Localisation FR de marketingskills de Corey Haines (CRO, copywriting, SEO, paid ads, créa pub, growth).",
+    "version": "2.4.1",
+    "repository": "https://github.com/coreyhaines31/marketingskills"
+  },
+  "plugins": [
+    {
+      "name": "marketing-skills-fr",
+      "description": "44 skills marketing en français pour marketeurs et agences : CRO, copywriting, cold email, prospection, SEO, AI SEO, paid ads (Google/Meta/LinkedIn/TikTok), SMS, créa pub, production vidéo, génération d'images, co-marketing, prévention du churn, pricing, parrainage, revenue operations, sales enablement, recherche client, architecture de site, plans marketing complets structurés AARRR, relations presse et earned media, et plus encore.",
+      "source": "./"
+    }
+  ]
+}

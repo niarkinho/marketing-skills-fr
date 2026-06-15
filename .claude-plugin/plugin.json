@@ -1,0 +1,12 @@
+{
+  "name": "marketing-skills-fr",
+  "description": "Skills marketing pour agents IA (version française) — CRO, copywriting, SEO, paid ads, créa pub et growth. Localisation FR des 44 skills de Corey Haines.",
+  "version": "2.4.1",
+  "author": {
+    "name": "Corey Haines"
+  },
+  "homepage": "https://github.com/coreyhaines31/marketingskills",
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "license": "MIT",
+  "skills": "./skills"
+}
